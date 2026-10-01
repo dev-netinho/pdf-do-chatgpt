@@ -1,0 +1,11 @@
+{
+  "todos_stl_manifold": true,
+  "nenhuma_colisao_estados": true,
+  "varredura_comporta_180": true,
+  "varredura_transporte": true,
+  "descida_alinhada_0": true,
+  "retirada": true,
+  "queda_saida": true,
+  "step_reimportado_valido": true,
+  "NOTA": "Retorno com recarga antecipada/embalagem flexível não validado. Nenhuma simulação dinâmica."
+}

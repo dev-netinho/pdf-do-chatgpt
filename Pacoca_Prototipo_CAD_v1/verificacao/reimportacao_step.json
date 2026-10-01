@@ -1,0 +1,91 @@
+{
+  "step_individuais": [
+    {
+      "arquivo": "01_cartucho.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "02_comporta_U.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "03_dock.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "04_roda.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "05_aro_fixo.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "06_eixo_D.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "07_manivela.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "08_calha.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "09_bandeja.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "10_tampa_inspecao.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "11_colar_frontal.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "12_colar_traseiro.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "13_punho.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "14_batentes_0_180.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "15_pino_cartucho.step",
+      "valido": true,
+      "solidos": 1
+    },
+    {
+      "arquivo": "16_retencao_comporta_M2.step",
+      "valido": true,
+      "solidos": 1
+    }
+  ],
+  "montagem_solidos": 19,
+  "montagem_valida": true,
+  "dimensoes_montagem_mm": [
+    259.0,
+    218.0,
+    309.2
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "unidades": "mm",
+  "malhas": [
+    {
+      "arquivo": "01_cartucho.stl",
+      "triangulos": 2136,
+      "vertices": 1062,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 192883.80806873142,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -31.0,
+          -40.0,
+          0.0
+        ],
+        [
+          31.0,
+          40.0,
+          114.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "02_comporta_U.stl",
+      "triangulos": 584,
+      "vertices": 292,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 5186.624073863883,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -22.0,
+          -39.0,
+          0.0
+        ],
+        [
+          22.0,
+          57.0,
+          5.4
+        ]
+      ]
+    },
+    {
+      "arquivo": "03_dock.stl",
+      "triangulos": 9272,
+      "vertices": 4594,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 667043.6434853561,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -87.0,
+          -57.0,
+          0.0
+        ],
+        [
+          87.0,
+          58.0,
+          228.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "04_roda.stl",
+      "triangulos": 2676,
+      "vertices": 1338,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 875146.3216243453,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -64.9798,
+          -195.0,
+          0.0
+        ],
+        [
+          64.9798,
+          -65.0,
+          72.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "05_aro_fixo.stl",
+      "triangulos": 7432,
+      "vertices": 3716,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 176375.63378747308,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -72.8,
+          -192.69641,
+          0.0
+        ],
+        [
+          72.8,
+          -60.60375,
+          81.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "06_eixo_D.stl",
+      "triangulos": 400,
+      "vertices": 202,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 9452.141103054844,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -5.0,
+          -134.99879,
+          0.0
+        ],
+        [
+          4.0,
+          -125.00121,
+          127.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "07_manivela.stl",
+      "triangulos": 2896,
+      "vertices": 1446,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 6478.827873828202,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -10.99998,
+          -180.0,
+          -0.0
+        ],
+        [
+          11.0,
+          -119.00341,
+          31.6
+        ]
+      ]
+    },
+    {
+      "arquivo": "08_calha.stl",
+      "triangulos": 4252,
+      "vertices": 2120,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 37170.23084135195,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -22.0,
+          -40.0,
+          0.0
+        ],
+        [
+          96.0,
+          40.0,
+          25.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "09_bandeja.stl",
+      "triangulos": 44,
+      "vertices": 24,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 39563.40002346039,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          90.0,
+          -47.0,
+          0.0
+        ],
+        [
+          172.0,
+          47.0,
+          23.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "10_tampa_inspecao.stl",
+      "triangulos": 3088,
+      "vertices": 1524,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 49343.97658042979,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -73.2996,
+          -193.27631,
+          0.0
+        ],
+        [
+          73.2996,
+          -56.72269,
+          4.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "11_colar_frontal.stl",
+      "triangulos": 1606,
+      "vertices": 801,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 557.635971913895,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -7.99751,
+          -138.0,
+          0.0
+        ],
+        [
+          8.0,
+          -122.0,
+          5.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "12_colar_traseiro.stl",
+      "triangulos": 1606,
+      "vertices": 801,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 557.635971913895,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -7.99751,
+          -138.0,
+          0.0
+        ],
+        [
+          8.0,
+          -122.0,
+          5.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "13_punho.stl",
+      "triangulos": 1008,
+      "vertices": 504,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 2464.78223873069,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -8.9972,
+          -183.0,
+          -0.0
+        ],
+        [
+          8.9972,
+          -165.0,
+          19.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "14_batentes_0_180.stl",
+      "triangulos": 2672,
+      "vertices": 1332,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 7398.268337363975,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -12.0,
+          -172.99593,
+          0.0
+        ],
+        [
+          42.98687,
+          -87.00407,
+          4.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "15_pino_cartucho.stl",
+      "triangulos": 1004,
+      "vertices": 504,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 530.7090524841004,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          -220.0,
+          -4.99845,
+          -0.0
+        ],
+        [
+          -210.0,
+          4.99845,
+          16.0
+        ]
+      ]
+    },
+    {
+      "arquivo": "16_retencao_comporta_M2.stl",
+      "triangulos": 1004,
+      "vertices": 504,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "vertices_nao_manifold": 0,
+      "orientacao_inconsistente": 0,
+      "triangulos_degenerados": 0,
+      "componentes": 1,
+      "volume_assinado_mm3": 53.818305753299434,
+      "malha_fechada_manifold": true,
+      "limites_mm": [
+        [
+          17.9,
+          33.40065,
+          0.0
+        ],
+        [
+          22.1,
+          37.59935,
+          11.0
+        ]
+      ]
+    }
+  ],
+  "colisoes_estados": [],
+  "varredura_comporta_180": [
+    {
+      "curso_mm": 0.0,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 4.8,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 9.6,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 14.399999999999999,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 19.2,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 24.0,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 28.799999999999997,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 33.6,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 38.4,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 43.199999999999996,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 48.0,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 52.8,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 57.599999999999994,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 62.4,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 67.2,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    },
+    {
+      "curso_mm": 72.0,
+      "estoque": 0.0,
+      "roda_180": 0.0,
+      "cartucho": 0.0,
+      "aro": 0.0,
+      "dock": 0.0
+    }
+  ],
+  "varredura_transporte": [
+    {
+      "angulo": 0,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 10,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 20,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 30,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 40,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 50,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 60,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 70,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 80,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 90,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 100,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 110,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 120,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 130,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 140,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 150,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 160,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 170,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    },
+    {
+      "angulo": 180,
+      "roda_estoque": 0.0,
+      "roda_aro": 0.0,
+      "roda_cartucho": 0.0,
+      "unidade_aro": 0.0,
+      "unidade_cartucho": 0.0,
+      "unidade_estoque": 0.0
+    }
+  ],
+  "descida_alinhada_0": [
+    {
+      "centro_z_mm": 211.5,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 209.55882352941177,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 207.61764705882354,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 205.6764705882353,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 203.73529411764707,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 201.7941176470588,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 199.85294117647058,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 197.91176470588235,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 195.97058823529412,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 194.02941176470588,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 192.08823529411765,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 190.14705882352942,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 188.2058823529412,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 186.26470588235293,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 184.3235294117647,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 182.38235294117646,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 180.44117647058823,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    },
+    {
+      "centro_z_mm": 178.5,
+      "roda": 0.0,
+      "cartucho": 0.0,
+      "comporta_aberta": 0.0
+    }
+  ],
+  "retorno": "Não validado dinamicamente. A unidade seguinte pode começar a descer antes de 0°; atrito, pontas flexíveis e captura pela borda precisam de ensaio. Não inferir êxito das poses CAD."
+}
